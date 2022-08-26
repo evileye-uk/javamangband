@@ -1,0 +1,10 @@
+#
+# JavaMangband - the Java client for Mangband
+#
+
+This client contains enough to start a game and play the lower levels. It
+does not yet contain macros, so further play is not advised.
+
+It was created as a fun practice project in Java.
+
+Some features found in the C client do not yet exist.
